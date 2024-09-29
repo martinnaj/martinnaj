@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi there, I'm Martin!
+
+[![MartinNaj's GitHub stats](https://github-readme-stats-k2qi.vercel.app/api?username=martinnaj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **martinnaj/martinnaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
