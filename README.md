@@ -2,7 +2,7 @@
 
 I'm a software engineer, currently based in Prague, Czech Republic 🇨🇿
 
-Here's a [link](https://ftbl.cz/) to what I'm doing in my free time.
+[This](https://ftbl.cz/) is what I'm working on in my free time.
 
 [![MartinNaj's GitHub stats](https://github-readme-stats-k2qi.vercel.app/api?username=martinnaj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
