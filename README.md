@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Martin!
 
-I'm a software engineer, currently based in Prague, Czech Republic 🇨🇿
+I'm a software engineer, currently based in Prague, the Czech Republic 🇨🇿
 
 [This](https://ftbl.cz/) is what I'm working on in my free time.
 
