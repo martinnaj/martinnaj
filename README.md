@@ -6,6 +6,8 @@ I'm a software engineer, currently based in Prague, the Czech Republic 🇨🇿
 
 [![MartinNaj's GitHub stats](https://github-readme-stats-k2qi.vercel.app/api?username=martinnaj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Most of my public repos are old and from my school-era so don't judge them too harshly :)
+
 <!--
 **martinnaj/martinnaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
